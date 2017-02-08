@@ -4,7 +4,9 @@ Scripts from the Unity game RailTank
 These are the scripts and apks for the unreleased Android game RailTank.
 
 GameController.cs controls the flow of the game.
+
 PlayerController.cs controls the player character (the tank).
+
 AimInput.cs controls the touch input for aiming the tanks gun.
 TankInput.cs controls the touch input for moving the tank.
 ObjectPooler.cs creates a pool of objects like enemies and bolts in order to reuse them when they're destroyed.
